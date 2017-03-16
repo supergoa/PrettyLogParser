@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Pretty_Log_Parser.jnlp">
+  <information>
+    <title>Pretty Log Parser</title>
+    <vendor>Unknown</vendor>
+    <description>Pretty Log Parser</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Pretty_Log_Parser.jar" size="19957" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="log_parser.Main"  name="Pretty Log Parser" />
+  <update check="background"/>
+</jnlp>

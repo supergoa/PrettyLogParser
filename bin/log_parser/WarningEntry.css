@@ -1,0 +1,6 @@
+.titled-pane .title{
+    -fx-background-color: #FFD79E;
+}
+.titled-pane .title:hover {
+    -fx-background-color: #FCDFB6;
+}
